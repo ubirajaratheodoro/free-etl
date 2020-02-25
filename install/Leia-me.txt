@@ -1,0 +1,17 @@
+You can download it for free: https://bit.ly/32p6Vc3
+Baixe o software gratuitamente através do link: https://bit.ly/32p6Vc3
+
+English:
+1) This software uses a SQL Local DB. You need to install the driver "SqlLocalDB" before;
+2) If your computer does not have de Microsoft AccessDatabaseEngine installed, you must install it to access data;
+3) You must copy the public key content to register the software;
+
+Português:
+1) Este software usa um banco de dados SQL local. Você precisa instalar o driver "SqlLocalDB" antes;
+2) Se o seu computador não possui o Microsoft AccessDatabaseEngine instalado, você deve instalá-lo para acessar os dados;
+3) Você deve copiar o conteúdo da chave pública para registrar o software;
+
+Vídeos Tutoriais:
+https://www.youtube.com/channel/UC2nWO-1e90h8G96pfduvABg/
+
+
